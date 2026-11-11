@@ -1,27 +1,13 @@
-# Merhaba, ben Furkan Gökçelik 👋
+# Hi, I'm Furkan 👋
 
-**Software Developer · Android & Web · Founder of [Ethernov](https://ethernov.online)**
+📍 **Antalya, Türkiye** | 📱 **Android & Web Developer** | 🚀 **Founder of [Ethernov](https://ethernov.online)**
 
-Antalya'da yaşıyorum. Android uygulamaları, web siteleri ve otomasyon araçları geliştiriyorum.
-Ethernov çatısı altında Google Play için kendi uygulamalarımı üretiyorum.
+Building Android apps for Google Play: **Bilmece Kutusu** (riddle game) and **Çizim Görüntüleyici** (ad-free DWG/PDF viewer for construction sites).
 
-## 🚀 Projeler
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-- **Bilmece Kutusu**: Çocuklar ve aileler için çevrimdışı çalışan bilmece oyunu (Android · Kotlin · Jetpack Compose)
-- **Çizim Görüntüleyici**: Şantiye çalışanları için reklamsız DWG / PDF / Office dosya görüntüleyici (Android, geliştiriliyor)
-
-## 🛠️ Kullandığım teknolojiler
-
-**Mobil:** Kotlin · Jetpack Compose · Android SDK
-**Web:** HTML · CSS · JavaScript · WordPress
-**Otomasyon:** Python · Telegram botları
-**Araçlar:** Git · GitHub Actions · Google Play Console
-
-## 💼 Hizmetler
-
-Web sitesi ve WordPress kurulumu · Android uygulama geliştirme · Python otomasyonları · Sosyal medya tasarımı
-
-## 📫 İletişim
-
-- 🌐 [ethernov.online](https://ethernov.online)
-- ✉️ fgokcelik1@gmail.com
+🌐 [ethernov.online](https://ethernov.online) · ✉️ fgokcelik1@gmail.com
